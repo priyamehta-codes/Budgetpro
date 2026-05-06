@@ -9,7 +9,7 @@ Aplicativo mobile de gerenciamento financeiro com design moderno.
 - Recharts
 - Sonner (toasts)
 - Lucide React (ícones)
-
+ 
 ## Como rodar
 
 ```bash
